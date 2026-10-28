@@ -1,0 +1,9 @@
+#faces{
+    display:flex;
+    flex-direction: row;
+}
+
+#faces img{
+    width:20vw;
+    cursor:pointer;
+}
